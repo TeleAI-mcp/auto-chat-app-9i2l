@@ -1,2 +1,3 @@
-# auto-chat-app-9i2l
-Automated issue comment bot repository
+# Auto Chat App 9I2L
+
+Automated issue comment bot repository.
